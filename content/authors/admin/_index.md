@@ -28,7 +28,7 @@ interests:
 education:
   courses:
   - course: PhD in Biostatistics
-    institution: Stanford University
+    institution: Johns Hopkins University
     year: 2018-2023 (expected)
   - course: ScB in Statistics
     institution: Brown University
@@ -44,13 +44,10 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/bjg345
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/bjg345
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
