@@ -21,9 +21,9 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Causal inference
-- Spatial statistics
-- International health
+- Causal Inference
+- Spatial Statistics
+- International Health
 
 education:
   courses:
